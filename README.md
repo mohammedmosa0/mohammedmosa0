@@ -1,47 +1,81 @@
-<h1>Hi There, I'm Mohamed Mosa <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<div align="center" width="50">
 
-I'm a **Front-End Web Developer** passionate about building modern, responsive, and user-friendly web interfaces. I love turning ideas into real interactive experiences using clean and efficient code. I'm always open to learning new technologies and collaborating on interesting projects 🚀
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> 
 
-## Skill Set :muscle:
+<h1>Hi 👋, I'm Mohamed Mousa</h1>
+<h3>Frontend Developer | React Enthusiast</h3>
 
-These are some of the major technologies that I use or have worked on:
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&style=flat\&color=orange)
 
-**Programming Languages**
+</div>
 
-<img title="HTML5" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />|<img title="CSS3" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />|<img alt="JavaScript" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="TypeScript" title="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">
-|--|--|--|--|
+---
 
-**Libraries and Frameworks**
+## 🚀 About Me
 
-<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">|<img title="Next.js" alt="Next.js" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png">|<img title="Redux" alt="Redux" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/redux/redux.png">|<img title="Tailwind CSS" alt="Tailwind" width="40px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">|<img title="Bootstrap" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png">
-|--|--|--|--|--|
+* 💻 Frontend Developer specialized in building modern web applications
+* ⚛️ Working mainly with **React & JavaScript**
+* 🎨 Passionate about UI/UX and clean design
+* 📚 Currently improving my skills in **Next.js & advanced React patterns**
+* 🌍 Based in Egypt
 
-**Tools**
+---
 
-<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="GitHub" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png">|<img title="Figma" alt="Figma" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/figma/figma.png">
-|--|--|--|--|
+## 🛠️ Tech Stack
 
-**Other Skills**
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat\&logo=javascript\&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat\&logo=typescript\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat\&logo=python\&logoColor=darkgreen)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat\&logo=c%2B%2B\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=next.js\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat\&logo=tailwind-css\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat\&logo=bootstrap\&logoColor=white)
 
-- Responsive Web Design 📱  
-- Cross-Browser Compatibility 🌐  
-- Performance Optimization ⚡  
-- UI/UX Best Practices 🎨  
+---
 
-<br>
+## ⚙️ Tools I Use
 
-## Some of my stats :bar_chart:
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=flat\&logo=visual-studio-code\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat\&logo=github\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat\&logo=figma\&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true">|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical">
-|--|--|
+---
 
-<br>
+```javascript
+// About Me in Code
 
-## Let's Connect :handshake:
+const MohamedMousa = {
+  role: "Frontend Developer",
+  code: ["JavaScript", "TypeScript", "Python", "C++", "HTML", "CSS"],
+  frameworks: ["React", "Next.js"],
+  styling: ["Tailwind", "Bootstrap"],
+  tools: ["Git", "VS Code", "Figma"],
+  currentlyLearning: "Advanced React & Performance Optimization"
+};
+```
 
-<a href="https://www.linkedin.com/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="mailto:youremail@example.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40"></a>
-|--|--|
+---
 
-### Here is a random meme for you 😄
+## 📫 Connect With Me
 
-<a href="https://github.com/"><img src='https://web-production-4cea.up.railway.app/' height="400"></a>
+* 💬 Ask me about **Frontend Development & React**
+* 📩 Add your links here:
+
+  * LinkedIn
+  * Portfolio
+  * Email
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="32%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" width="32%">
+
+</div>
