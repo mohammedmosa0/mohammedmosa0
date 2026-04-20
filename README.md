@@ -62,8 +62,8 @@ const mohamed = {
 
 ## 📬 Contact Me
 
-* 💬 Telegram: [@your-username](#)
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 💬 Telegram: [@M16Mohammed]
+* 📧 Email: [mohammedmosa0mm@gmail.com]
 
 ---
 
