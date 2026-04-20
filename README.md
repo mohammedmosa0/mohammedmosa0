@@ -1,64 +1,47 @@
-<div align="center" width="50">
+<h1>Hi There, I'm Mohamed Mosa <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" width="60%"/> <br>
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="workspace" width="40%"/><br> 
+I'm a **Front-End Web Developer** passionate about building modern, responsive, and user-friendly web interfaces. I love turning ideas into real interactive experiences using clean and efficient code. I'm always open to learning new technologies and collaborating on interesting projects 🚀
 
-<details>
-<p><strong> <summary>  Currently Vibing to :   </summary> </strong></p>
+## Skill Set :muscle:
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/) <be>
+These are some of the major technologies that I use or have worked on:
 
-</details>
+**Programming Languages**
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=blue&label=PROFILE+VIEWS)
+<img title="HTML5" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />|<img title="CSS3" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />|<img alt="JavaScript" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="TypeScript" title="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">
+|--|--|--|--|
 
-</div>
+**Libraries and Frameworks**
 
-<hr>
+<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">|<img title="Next.js" alt="Next.js" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png">|<img title="Redux" alt="Redux" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/redux/redux.png">|<img title="Tailwind CSS" alt="Tailwind" width="40px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">|<img title="Bootstrap" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png">
+|--|--|--|--|--|
 
-# 👋 Hey, I'm Mohamed Mousa  
-### Front-End Developer 💻✨
+**Tools**
 
----
+<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="GitHub" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png">|<img title="Figma" alt="Figma" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/figma/figma.png">
+|--|--|--|--|
 
-## 🚀 About Me
+**Other Skills**
 
-- 💻 Front-End Developer passionate about building interactive UI  
-- 🎯 Focused on clean code & responsive design  
-- ⚡ Always learning new technologies  
-- 🎨 Love turning ideas into real products  
+- Responsive Web Design 📱  
+- Cross-Browser Compatibility 🌐  
+- Performance Optimization ⚡  
+- UI/UX Best Practices 🎨  
 
----
+<br>
 
-## 🛠️ Tech Stack
+## Some of my stats :bar_chart:
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true">|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical">
+|--|--|
 
----
+<br>
 
-## ⚙️ Tools I Use
+## Let's Connect :handshake:
 
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+<a href="https://www.linkedin.com/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="mailto:youremail@example.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40"></a>
+|--|--|
 
----
+### Here is a random meme for you 😄
 
-```js
-// About Me in Code 👇
-
-const mohamed = {
-  role: "Front-End Developer",
-  languages: ["JavaScript", "TypeScript"],
-  frameworks: ["React", "Next.js"],
-  styling: ["CSS", "Tailwind"],
-  tools: ["Git", "GitHub", "Figma", "VS Code"],
-  currentFocus: "Building modern web apps",
-};
+<a href="https://github.com/"><img src='https://web-production-4cea.up.railway.app/' height="400"></a>
